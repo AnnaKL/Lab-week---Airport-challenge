@@ -1,7 +1,7 @@
 Airport Challenge
 =================
 
-
+Revisited 1st weekend challenge at Makers Academy.
 
 User Stories
 ------------
