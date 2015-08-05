@@ -1,7 +1,7 @@
 module Weather
 
   def forecast
-    %w('sunny' 'stormy').sample
+    ['sunny' 'stormy'].sample
   end
 
 end

@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/AnnaKL/Lab-week---Airport-challenge.svg?branch=master)](https://travis-ci.org/AnnaKL/Lab-week---Airport-challenge) [![Code Climate](https://codeclimate.com/repos/55c20acd695680133d00d396/badges/cf8a2f289fb18aeb78e5/gpa.svg)](https://codeclimate.com/repos/55c20acd695680133d00d396/feed)
+
 Airport Challenge
 =================
 
